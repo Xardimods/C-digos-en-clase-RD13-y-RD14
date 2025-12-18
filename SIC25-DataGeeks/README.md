@@ -165,3 +165,11 @@ HydroSense es un proyecto que demuestra cómo el aprendizaje automático puede:
 - y hacerlo de forma transparente e interactiva.
 
 No busca ser un modelo “mágico”, sino una **herramienta honesta, explicable y adaptable** para entender mejor el riesgo de inundación.
+
+---
+
+## 👥 Autores
+
+- **Nilfred Baez** - [NilfredB](https://github.com/NilfredB)  
+- **Yulian Carrasco** - [YulianC](https://github.com/CarrascoYulian)  
+- **Kevin R**  
