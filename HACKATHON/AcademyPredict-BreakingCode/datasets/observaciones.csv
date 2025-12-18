@@ -1,0 +1,88 @@
+id_observacion,id_estudiante,fecha,autor,observacion
+1,1,2025-08-10,Prof. Martínez,Excelente redacción en ensayos
+2,1,2025-10-15,Coordinación Académica,Participación destacada en debates
+13,1,2025-09-05,Prof. Rodríguez,Líder natural en trabajos grupales
+14,1,2025-11-20,Coordinación de Disciplina,Respetuoso con el material del aula y mobiliario
+33,1,2026-01-15,Prof. García,Representante estudiantil
+43,1,2026-02-10,Coordinación Disciplina,Modelo de comportamiento en formación y actos cívicos
+12,1,2025-12-01,Prof. Castillo,Disfruta crear presentaciones visuales para sus exposiciones
+15,1,2026-01-08,Tutor,Gestiona el tiempo de estudio con apoyo de apps digitales
+16,1,2026-02-05,Prof. López,Solicita retroalimentación extra para mejorar sus textos
+17,1,2026-02-20,Orientación,Participó voluntariamente en campaña de lectura a niños de primaria
+3,2,2025-09-02,Tutor,Dificultades en Matemática
+7,2,2025-11-15,Tutor Académico,Mejoró asistencia
+15,2,2025-12-01,Orientador,Falta de organización en su espacio de trabajo (mochila desordenada)
+34,2,2026-01-20,Tutor,Mejoró notablemente en participación tras trabajo con psicólogo
+44,2,2026-02-15,Prof. García,Inició tutorías entre pares
+12,2,2025-11-10,Prof. Torres,Prefiere aprender con videos cortos antes que libros
+13,2,2026-01-12,Prof. Martínez,Disfruta armar rompecabezas de madera en los recreos
+14,2,2026-01-30,Tutor,Recuerda fechas y datos históricos sin esfuerzo
+15,2,2026-02-08,Orientación,Propuso crear un mural gráfico para repasar contenidos
+16,2,2026-02-18,Prof. López,Siente ansiedad cuando el pizarrón está lleno de fórmulas
+17,2,2026-02-25,Psicólogo,Demuestra empatía al escuchar a sus compañeros
+4,3,2025-08-12,Orientación,Ausencias recurrentes
+17,3,2025-09-18,Prof. García,Constante distracción con el celular durante clases
+18,3,2025-11-05,Psicólogo escolar,Aislamiento social durante recreos
+35,3,2026-01-10,Orientación,Inició terapia externa
+45,3,2026-02-05,Psicólogo escolar,Incorporado a grupo de teatro escolar para socialización
+12,3,2025-12-05,Prof. Castillo,Disfruta improvisar monólogos cómicos en clase
+13,3,2026-01-15,Prof. Martínez,Escribe cuentos cortos en su cuaderno personal
+14,3,2026-01-25,Tutor,Prefiere trabajar de pie antes que sentada
+15,3,2026-02-10,Orientación,Baila cuando hay música de fondo mientras realiza tareas
+16,3,2026-02-15,Prof. López,Solicita roles de actuación en proyectos escolares
+17,3,2026-02-22,Prof. García,Recuerda líneas de texto después de leerlas dos veces
+5,4,2025-09-20,Prof. García,Excelente desempeño en Ciencias Sociales
+19,4,2025-10-08,Prof. López,Ayuda espontáneamente a compañeros con dificultades
+20,4,2025-12-10,Coordinación Académica,Organizador del club de ciencias
+36,4,2026-01-25,Prof. Torres,Creador de material didáctico para ayudar a compañeros
+46,4,2026-02-20,Prof. Johnson,Ganador de feria científica regional
+12,4,2025-11-20,Prof. Castillo,Construye maquetas de ciudades con cartón y pegamento
+13,4,2026-01-05,Tutor,Explica mapas conceptuales mejor que el profesor
+14,4,2026-01-18,Prof. Martínez,Prefiere leer sobre historia de la ciencia antes que ficción
+15,4,2026-02-02,Orientación,Propuso crear un museo escolar de minerales
+16,4,2026-02-12,Prof. López,Diseña pósters informativos con dibujos claros y colores armoniosos
+17,4,2026-02-24,Tutor,Siente curiosidad por el funcionamiento de los puentes y rascacielos
+6,5,2025-10-05,Coordinación,Representante en olimpiadas de Matemática
+21,5,2025-09-22,Prof. Torres,Competitiva en exceso
+22,5,2025-11-25,Prof. Fernández,Excelente manejo del tiempo en presentaciones orales
+37,5,2026-01-18,Coordinación Académica,Presión excesiva de familia afecta su desempeño social
+47,5,2026-02-12,Prof. Torres,Aprendió a delegar en trabajos grupales
+12,5,2025-12-15,Prof. Castillo,Crea infografías complejas para resumir temas de física
+13,5,2026-01-08,Tutor,Resuelve sudokus de nivel avanzado en sus ratos libres
+14,5,2026-01-20,Prof. Martínez,Prefiere trabajar en silencio antes que con música
+15,5,2026-02-01,Orientación,Propuso un sistema de puntos para mejorar la puntualidad del curso
+16,5,2026-02-16,Prof. López,Siente satisfacción al terminar problemas largos de matemática
+17,5,2026-02-26,Psicólogo,Demuestra autocritica constructiva tras recibir feedback
+8,6,2025-08-30,Prof. Johnson,Bajo rendimiento en Formación Humana
+23,6,2025-10-12,Prof. Johnson,Conflictos frecuentes con compañeros durante Educación Física
+24,6,2025-12-03,Orientación,Desinterés por actividades culturales y artísticas de la escuela
+38,6,2026-01-12,Prof. Johnson,Participó en concurso de oratoria
+48,6,2026-02-18,Prof. Fernández,Descubrió talento artístico en taller de pintura extracurriculr
+12,6,2025-11-15,Prof. Castillo,Dibuja historietas de superhéroes en márgenes de cuadernos
+13,6,2026-01-10,Tutor,Prefiere explicar con dibujos antes que con palabras
+14,6,2026-01-28,Prof. Martínez,Construye figuras 3D con palillos y plastilina
+15,6,2026-02-08,Orientación,Solicitó incorporarse al taller de arte avanzado
+16,6,2026-02-14,Prof. López,Siente calma al colorear mientras escucha música instrumental
+17,6,2026-02-23,Psicólogo,Utiliza el arte para regular emociones tras conflictos
+9,7,2025-09-25,Prof. Martínez,Excelente en proyectos de Ciencias
+25,7,2025-09-28,Prof. Martínez,Muestra curiosidad científica
+26,7,2025-11-08,Coordinación Ecológica,Líder del comité de reciclaje del aula
+39,7,2026-01-22,Prof. Martínez,Inventó experimento casero que compartió con toda la clase
+49,7,2026-02-08,Prof. López,Creador de blog científico estudiantil con alto impacto
+12,7,2025-12-02,Prof. Castillo,Diseña carteles informativos sobre cuidado del medio ambiente
+13,7,2026-01-05,Tutor,Prefiere documentales de ciencia antes que series de ficción
+14,7,2026-01-24,Prof. Torres,Construye filtros de agua con materiales reciclables
+15,7,2026-02-03,Orientación,Propuso crear un huerto escolar con compostaje
+16,7,2026-02-17,Prof. Johnson,Siente entusiasmo al explicar fenómenos cotidianos
+17,7,2026-02-27,Coordinación,Planifica grabar podcasts divulgativos con compañeros
+10,8,2025-10-18,Prof. Torres,Destacado en competencias deportivas
+27,8,2025-10-20,Prof. García,Impaciente en explicaciones
+28,8,2025-12-12,Prof. Torres,Excelente espíritu deportivo
+40,8,2026-01-28,Prof. Fernández,Lesión deportiva afectó su ánimo en el aula
+50,8,2026-02-22,Prof. Martínez,Capitan del equipo de baloncesto
+12,8,2025-11-22,Prof. Castillo,Diseña jugadas de baloncesto en pizarrón para sus compañeros
+13,8,2026-01-15,Tutor,Prefiere aprender moviéndose antes que sentado
+14,8,2026-01-30,Prof. López,Siente frustración en clases teóricas largas
+15,8,2026-02-10,Orientación,Propuso crear un torneo intramural de deportes
+16,8,2026-02-16,Prof. García,Organiza grupos de estudio activos (camina mientras repasa)
+17,8,2026-02-24,Entrenador,Demuestra liderazgo vocal durante partidos

@@ -1,0 +1,67 @@
+[convivencia]
+vive_ambos = 0.40
+vive_padre = 0.15
+vive_madre = 0.15
+vive_otro  = 0.20
+vive_ninguno = 0.10
+
+[educacion]
+edu_universitario = 0.45
+edu_secundaria    = 0.30
+edu_primaria      = 0.15
+edu_otro          = 0.10
+
+[laboral]
+lab_empleado      = 0.40
+lab_independiente = 0.35
+lab_otro          = 0.15
+lab_desempleado   = 0.10
+
+[recursos]
+rec_internet   = 0.30
+rec_computadora= 0.25
+rec_libros     = 0.20
+rec_tutorias   = 0.15
+rec_otros      = 0.10
+
+[violencia]   # cuanto MAYOR el check, MENOR el score
+vio_robos   = -0.30
+vio_peleas  = -0.25
+vio_drogas  = -0.30
+vio_acoso   = -0.15
+
+[salud]
+salud_general = 0.25   # escala 1-5 → /5
+salud_acceso  = 0.25   # seguro/clínica
+condiciones   = -0.20  # negativo si hay checks
+
+[habitos]
+horas_estudio   = 0.20   # /8
+actividades     = 0.15   # normalizado
+asistencia      = 0.20   # /5
+disp_computadora= 0.10
+
+[animo]
+apoyo_familiar     = 0.15  # /5
+integracion        = 0.15  # /5
+bullying           = -0.15 # sí = -0.15
+animo_score        = 0.15  # normalizado
+motivacion         = 0.15  # /5
+
+[transporte]
+trans_privado = 0.45
+trans_publico = 0.35
+trans_camina  = 0.20
+
+[servicios]
+serv_agua          = 0.30
+serv_luz           = 0.30
+serv_saneamiento   = 0.25
+serv_internet      = 0.15
+
+[cultura]
+cult_biblioteca = 0.30
+cult_museo      = 0.25
+cult_parques    = 0.20
+cult_cine       = 0.15
+cult_otro       = 0.10
