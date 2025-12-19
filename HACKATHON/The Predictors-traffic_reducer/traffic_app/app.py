@@ -11,7 +11,7 @@ from video_processor import TrafficCamera
 app = Flask(__name__)
 
 # Load Model logic
-MODEL_PATH = r"\traffic_reducer_dataset\modelo_entrenado\modelo_semaforo_ia.pkl"
+MODEL_PATH = r"C:\Users\Xande\important\The Predictors\Haklaton\The Predictors-traffic_reducer\traffic_reducer_dataset\modelo_entrenado\modelo_semaforo_ia.pkl"
 
 def load_model():
     print(f"Loading model from {MODEL_PATH}...")
@@ -83,9 +83,9 @@ def predict():
         if sum(traffic_values) > 0:
             result = int(np.argmax(traffic_values))
         else:
-            result = 0 # Default if empty
+            result = 0 #
 
-        # Update Camera Status for OSD
+     
         if use_live:
             camera.set_phase(result)
         
@@ -100,7 +100,7 @@ def predict():
 
 @app.route('/simulate', methods=['GET'])
 def simulate():
-    # Generate random traffic data for live simulation
+    
     data = {
         'norte': random.randint(0, 80),
         'sur': random.randint(0, 80),
